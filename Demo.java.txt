@@ -1,0 +1,7 @@
+public clss Demo{
+public void doProcess(){
+
+// logoc goes here
+}
+
+}
